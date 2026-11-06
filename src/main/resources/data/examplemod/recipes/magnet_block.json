@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IRI",
+    "IMI",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:redstone" },
+    "M": { "item": "minecraft:iron_block" }
+  },
+  "result": {
+    "item": "examplemod:magnet_block",
+    "count": 1
+  }
+}
